@@ -1,0 +1,23 @@
+J:Jose da Silva,200,2
+J:Maria dos Santos,300,3
+J:Machado de Assis,535,3
+J:Highlander,600,3
+J:Mestre dos Magos,440,2
+J:Batman,130,3
+J:Carlos Souza,380,1
+J:Marta,200,2
+J:Wolverine,250,1
+J:ASD,220,2
+T:Arranca Toco,10/04/2016,Foz do Iguacu
+T:Game of Thrones,25/11/2016,Brasilia
+T:Corcovado,13/03/2017,Rio de Janeiro
+P:100420161,Jose da Silva,20,Maria dos Santos,30
+P:100420162,Batman,50,Marta,10
+P:100420163,Carlos Souza,5,Machado de Assis,40
+P:100420164,Highlander,80,Mestre dos Magos,60
+P:100420165,Batman,10,Maria dos Santos,30
+P:251120161,Highlander,25,Batman,70
+P:251120162,Mestre dos Magos,70,Machado de Assis,20
+P:251120163,Wolverine,15,Maria dos Santos,45
+P:251120164,Marta,60,Jose da Silva,20
+P:130320171,Machado de Assis,40,Highlander,50
